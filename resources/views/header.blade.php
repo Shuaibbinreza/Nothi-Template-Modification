@@ -4,7 +4,7 @@
   <h1>Nothi Template Checking</h1>
 </nav>
 
-<script>
+{{-- <script>
   function showSection(sectionId) {
     // Hide all sections
     var sections = document.getElementsByClassName('section');
@@ -27,7 +27,7 @@
     // If no active tab is stored, default to the home section
     showSection('office-sarok');
   }
-  </script>
+  </script> --}}
 
 </body>
 </html>
